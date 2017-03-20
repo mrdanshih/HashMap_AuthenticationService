@@ -70,4 +70,4 @@ The HashMap.cpp/HashMap.hpp files are the source/header files for the HashMap im
   </tr>
 </table>
 
-### This project was done independently as part of a self-study of C++ programming (in preparation to take a Data Structures class sooner) by following the course material in Alex Thornton's offering of the ICS 45C Programming in C++ course.
+### This project was done independently as part of a self-study of C++ programming by following the course material in Alex Thornton's offering of the ICS 45C Programming in C++ course.
