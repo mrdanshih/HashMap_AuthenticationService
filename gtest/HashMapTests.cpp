@@ -1,6 +1,6 @@
 // HashMapTests.cpp
 //
-// ICS 45C Fall 2014
+// ICS 45C Fall 2016
 // Project #3: Maps and Legends
 //
 // Write unit tests for your HashMap class here.  I've provided one test already,
