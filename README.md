@@ -69,3 +69,5 @@ The HashMap.cpp/HashMap.hpp files are the source/header files for the HashMap im
     <td>The output is the length of the largest bucket (i.e., the one whose linked list contains the largest number of elements) in the hash table.</td>
   </tr>
 </table>
+
+### This project was done independently as part of a self-study of C++ programming (in preparation to take a Data Structures class sooner) by following the course material in Alex Thornton's offering of the ICS 45C Programming in C++ course.
